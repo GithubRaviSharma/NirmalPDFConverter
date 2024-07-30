@@ -33,6 +33,34 @@ This application supports various file format conversions, providing employees w
    - Open your web browser and go to `http://localhost:8501`
    - Follow the instructions on the screen to upload files and perform conversions.
 
+## Technologies Used
+
+- **Python:** The core programming language used for developing the backend of the application.
+  - **Streamlit:** A fast and easy-to-use framework for creating data applications in Python.
+  - **PyMuPDF:** A Python library for PDF document manipulation.
+  - **PyPDF2:** A library for working with PDF files.
+  - **pdf2image:** A library to convert PDF pages to PIL images.
+  - **Pillow:** The Python Imaging Library, used for opening, manipulating, and saving image files.
+  - **fpdf:** A library for generating PDF documents.
+  - **openpyxl:** A library for reading and writing Excel (XLSX) files.
+  - **xlrd:** A library for reading data and formatting information from Excel files.
+  - **fitz:** Another name for PyMuPDF.
+  - **pyodbc:** A library for connecting to databases using ODBC.
+  - **matplotlib:** A plotting library for creating static, animated, and interactive visualizations.
+  - **plotly:** A graphing library that makes interactive, publication-quality graphs online.
+  - **altair:** A declarative statistical visualization library for Python.
+  - **pdfplumber:** A library for extracting text, tables, and metadata from PDFs.
+  - **pyhanko:** A library for creating digital signatures for PDFs.
+
+- **Visual Studio Code (IDE):** An integrated development environment used for coding, debugging, and managing the project.
+- **MS SQL Server Express:** A free edition of SQL Server for developing and managing the application's database.
+
+
+## Contact
+
+If you have any questions, feel free to contact me at [ravisharma111241@gmail.com](mailto:ravisharma111241@gmail.com).
+
+
 
 
 
