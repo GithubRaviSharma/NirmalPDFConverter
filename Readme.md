@@ -24,25 +24,6 @@ This application supports various file format conversions, providing employees w
 
 ## Getting Started
 
-### Installation
-
-1. **Clone the repository**
-   ```sh
-   git clone https://github.com/yourusername/nirmal-file-converter.git
-   ```
-
-2. **Navigate to the project directory**
-   ```sh
-   cd nirmal-file-converter
-   ```
-
-3. **Install required dependencies**
-   ```sh
-   pip install -r requirements.txt
-   ```
-
-### Usage
-
 1. **Run the Streamlit application**
    ```sh
    streamlit run app.py
@@ -52,13 +33,7 @@ This application supports various file format conversions, providing employees w
    - Open your web browser and go to `http://localhost:8501`
    - Follow the instructions on the screen to upload files and perform conversions.
 
-## License
 
-This project is licensed under the **Internal Use License**. See the [LICENSE](License.txt) file for details.
-
-## Contact
-
-For any questions or support, please contact the IT department at Powergrid Corporation of India.
 
 
 
