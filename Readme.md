@@ -22,6 +22,32 @@ This application supports various file format conversions, providing employees w
 4. **JPEG to PDF**
    - Convert single or multiple JPEG images to a PDF file.
 
+## Supported PDF Operations
+
+1. **Merge PDFs**
+   - Combine multiple PDF documents into a single file.
+
+2. **Split PDF**
+   - Divide a PDF document into separate files based on page ranges.
+
+3. **Sign PDF**
+   - Digitally sign PDF documents for authentication and integrity.
+
+4. **Watermark PDF**
+   - Add text or image watermarks to PDF files.
+
+5. **Compress PDF**
+   - Reduce the file size of PDF documents.
+
+6. **Protect PDF**
+   - Secure PDF files with password protection.
+
+7. **Unlock PDF**
+   - Remove password protection from PDF documents.
+
+8. **Organize PDF**
+   - Reorder, add, or remove pages in a PDF document.
+
 ## Getting Started
 
 1. **Run the Streamlit application**
